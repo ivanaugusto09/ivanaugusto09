@@ -11,8 +11,14 @@
 
 
 
-### Olá! Boas vindas :) 👋
+### Olá! Bem vindo :) 👋
 
+Meu nome é Ivan Augusto e sou graduando em Sistemas de Informações pela UNEMAT-Sinop e atuo como dev front-end desde Janeiro de 2020
+
+Estudando e trabalhando com:
+- CSS
+- JavaScript
+- Vue.js
 
 Onde me encontrar? :mag:  
 
@@ -31,14 +37,4 @@ Onde me encontrar? :mag:
 <!--
 **ivanaugusto09/ivanaugusto09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
