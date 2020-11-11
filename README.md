@@ -11,7 +11,22 @@
 
 
 
-### Hi there 👋
+### Olá! Boas vindas :) 👋
+
+
+Onde me encontrar? :mag:  
+
+<a href="https://twitter.com/cossmoth"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/cossmoth)   
+
+<a href="https://www.instagram.com/ivanaugusto_99/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/ivanaugusto_99/)  
+
+<a href="https://www.linkedin.com/in/ivan-augusto-alves-rocha-a64b29195/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/ivan-augusto-alves-rocha-a64b29195/)  
+
+<a href="mailto:ivandevfull@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:ivandevfull@gmail.com)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=ivanaugusto09&color=blue&style=flat)
 
 <!--
 **ivanaugusto09/ivanaugusto09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
