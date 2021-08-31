@@ -16,9 +16,9 @@
 - :student: My name is Ivan Augusto and I have a degree in Computer Information Systems and currently MSc Student in Computer Science
 - ‎‍💻Front-end developer
 
-## ⚡ Tecnologias
+## ⚡ Technologies
 
-Tecnologias que estudo e desenvolvo:
+These are some of the technologies and tools that I am familiar with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
@@ -31,7 +31,7 @@ Tecnologias que estudo e desenvolvo:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-Onde me encontrar? :mag:  
+## Where to find me :mag:  
 
 <a href="https://twitter.com/cossmoth"><img src="https://github.com/ivanaugusto09/ivanaugusto09/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/cossmoth)   
 
