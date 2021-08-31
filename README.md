@@ -13,7 +13,7 @@
 
 ### Hi! Welcome :) 👋
 
-My name is Ivan Augusto and I have a degree in Computer Information Systems and currently MSc Student in Computer Science
+- 👨 🏻‍🎓My name is Ivan Augusto and I have a degree in Computer Information Systems and currently MSc Student in Computer Science
 - ‎‍💻Front-end developer
 
 ## ⚡ Tecnologias
